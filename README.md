@@ -5,7 +5,7 @@
 - 第四组：张祎璘、孙楚婷、单嘉伟
 
 ## Tips:
-Github本身不支持显示公式，推荐大家使用Chrome浏览器并安装插件“MathJax Plugin for Github”使得公式能够正常显示。
+Github本身不支持显示公式，推荐大家使用Chrome浏览器并安装插件“MathJax Plugin for Github”使得公式能够正常显示。但是该插件仅支持简单公式，多行公式可能会失效，所以复杂公式你可以...插入图片！
 
 请检验以下公式能否正常显示：
 > $y=x^2+2x+1$
